@@ -1,0 +1,64 @@
+.bg-image{
+  background: linear-gradient(90deg, #0b4cb6, #005ac2, #0067cd, #0074d8, #0082e3, #008fed, #009df6, #0faaff);
+  background-size:cover;
+  height:100vh;
+  width:100vw;
+ 
+  
+}
+.card1{
+  height:460px;
+  width:300px;
+  border:2px solid red;
+  text-align:center;
+  display: inline-block;
+  position:relative;
+  margin:25px;
+ 
+  left:200px;
+  color:black;
+  border-radius:10px;
+  background-color:white;
+
+  
+}
+
+h2{
+  font-family:'Times New Roman', Times, serif;
+  font-size:40px;
+  margin-top:0px;
+  margin-bottom:0px;
+  
+}
+h4{
+  font-family:'Times New Roman', Times, serif;
+  font-size:15px;
+  margin-top:15px;
+  color: rgb(142, 142, 142);
+  
+}
+p{
+  font-family:'Times New Roman', Times, serif;
+  font-size:15px;
+  text-align:left;
+  padding-left:30px;
+
+}
+.btn{
+  font-family:'Times New Roman', Times, serif;
+  font-size:15px;
+  background-color:#0b4cb6;
+  color:white;
+  width:280px;
+  border-radius:25px;
+}
+
+.pricacardname{
+  font-family:'Times New Roman', Times, serif;
+  font-size:50px;
+   padding-top:50px;
+   padding-bottom:0px;
+  text-align:center;
+  color:white;
+  
+}
